@@ -1,7 +1,9 @@
 #include <iostream>
 
+using namespace std;
+
 int main(){
-    std::cout<< "Hamza Alsarsour\n\n";
-    std::cout<< "This is my first C++ programm";
+    cout<< "Hamza Alsarsour\n\n";
+    cout<< "This is my first C++ programm";
     return 0;
 }
